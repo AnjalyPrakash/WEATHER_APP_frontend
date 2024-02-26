@@ -1,0 +1,6 @@
+.bg-imag {
+    background-image: url('https://images.pexels.com/photos/1410224/pexels-photo-1410224.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    height: 350px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
